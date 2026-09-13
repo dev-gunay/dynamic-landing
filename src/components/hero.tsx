@@ -46,7 +46,7 @@ export default function Hero() {
           variants={item}
           className="text-balance text-5xl font-semibold tracking-tight sm:text-6xl md:text-7xl"
         >
-          Automatisiere deinen{" "}
+          Booste deinen{" "}
           <span className="animate-gradient-x bg-gradient-to-r from-violet-400 via-fuchsia-400 to-cyan-400 bg-clip-text text-transparent">
             gesamten Workflow
           </span>
